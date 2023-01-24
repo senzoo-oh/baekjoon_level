@@ -1,0 +1,1 @@
+print(Counter(word).most_common())
